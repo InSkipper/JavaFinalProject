@@ -14,7 +14,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
-        var transactions = parseTransactionCsv("D:\\Загрузки\\Переводы.csv");
+        var transactions = parseTransactionCsv("Переводы.csv");
         DbConn.conn();
         DbConn.createDB();
         DbConn.writeDB(transactions);
@@ -33,7 +33,7 @@ public class Main {
                 "Amount of Dollars",
                 new TimeSeriesCollection(dataset));
         try {
-            ChartUtilities.saveChartAsJPEG(new File("chart.JPEG"), chart, 1000, 500);
+            ChartUtilities.saveChartAsJPEG(new File("Results\\chart.JPEG"), chart, 1000, 500);
         } catch (IOException e) {
             e.printStackTrace();
         }

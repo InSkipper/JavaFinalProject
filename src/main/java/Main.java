@@ -14,10 +14,10 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
-//        var transactions = parseTransactionCsv("D:\\Загрузки\\Переводы.csv");
+        var transactions = parseTransactionCsv("D:\\Загрузки\\Переводы.csv");
         DbConn.conn();
         DbConn.createDB();
-//        DbConn.writeDB(transactions);
+        DbConn.writeDB(transactions);
         makeTask1(DbConn.readDBTask1());
         makeTask2();
         makeTask3();

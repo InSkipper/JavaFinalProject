@@ -1,0 +1,1316 @@
+~~~~~~~~
+Задача 2
+~~~~~~~~
+===========================================================================================================
+Вывести в консоль средний размер переводов в долларах, а так же их количество, за каждый уникальный период.
+===========================================================================================================
+Period = 2000.01
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.02
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.03
+Average = 0.0
+Count = 31
+Units = Dollars
+------------------------
+Period = 2000.04
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.05
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.06
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2000.07
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.08
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.09
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2000.10
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.11
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2000.12
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2001.01
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.02
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.03
+Average = 55.965908
+Count = 44
+Units = Dollars
+------------------------
+Period = 2001.04
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.05
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.06
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2001.07
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.08
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.09
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2001.10
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.11
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2001.12
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2002.01
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2002.02
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2002.03
+Average = 390.3909
+Count = 44
+Units = Dollars
+------------------------
+Period = 2002.04
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2002.05
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2002.06
+Average = 0.0
+Count = 29
+Units = Dollars
+------------------------
+Period = 2002.07
+Average = 0.0
+Count = 14
+Units = Dollars
+------------------------
+Period = 2002.08
+Average = 0.0
+Count = 18
+Units = Dollars
+------------------------
+Period = 2002.09
+Average = 0.0
+Count = 33
+Units = Dollars
+------------------------
+Period = 2002.10
+Average = 946.5175
+Count = 40
+Units = Dollars
+------------------------
+Period = 2002.11
+Average = 949.655
+Count = 40
+Units = Dollars
+------------------------
+Period = 2002.12
+Average = 1982.2692
+Count = 81
+Units = Dollars
+------------------------
+Period = 2003.01
+Average = 957.9425
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.02
+Average = 942.6475
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.03
+Average = 1855.5802
+Count = 96
+Units = Dollars
+------------------------
+Period = 2003.04
+Average = 958.76
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.05
+Average = 974.8625
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.06
+Average = 1920.3346
+Count = 81
+Units = Dollars
+------------------------
+Period = 2003.07
+Average = 990.7975
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.08
+Average = 993.905
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.09
+Average = 1982.4926
+Count = 81
+Units = Dollars
+------------------------
+Period = 2003.10
+Average = 1023.375
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.11
+Average = 1040.4275
+Count = 40
+Units = Dollars
+------------------------
+Period = 2003.12
+Average = 2173.168
+Count = 81
+Units = Dollars
+------------------------
+Period = 2004.01
+Average = 1052.4325
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.02
+Average = 1038.18
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.03
+Average = 3585.7656
+Count = 96
+Units = Dollars
+------------------------
+Period = 2004.04
+Average = 1076.2625
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.05
+Average = 1079.0125
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.06
+Average = 2146.7803
+Count = 81
+Units = Dollars
+------------------------
+Period = 2004.07
+Average = 1100.6775
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.08
+Average = 1093.6226
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.09
+Average = 2196.994
+Count = 81
+Units = Dollars
+------------------------
+Period = 2004.10
+Average = 1119.27
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.11
+Average = 1144.3125
+Count = 40
+Units = Dollars
+------------------------
+Period = 2004.12
+Average = 2369.3198
+Count = 81
+Units = Dollars
+------------------------
+Period = 2005.01
+Average = 1143.0925
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.02
+Average = 1135.6575
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.03
+Average = 3920.198
+Count = 96
+Units = Dollars
+------------------------
+Period = 2005.04
+Average = 1168.79
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.05
+Average = 1161.2426
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.06
+Average = 2330.3594
+Count = 81
+Units = Dollars
+------------------------
+Period = 2005.07
+Average = 1193.9625
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.08
+Average = 1192.87
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.09
+Average = 2392.3853
+Count = 81
+Units = Dollars
+------------------------
+Period = 2005.10
+Average = 1224.1425
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.11
+Average = 1241.32
+Count = 40
+Units = Dollars
+------------------------
+Period = 2005.12
+Average = 2566.1345
+Count = 81
+Units = Dollars
+------------------------
+Period = 2006.01
+Average = 1235.755
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.02
+Average = 1225.6075
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.03
+Average = 4258.348
+Count = 96
+Units = Dollars
+------------------------
+Period = 2006.04
+Average = 1264.67
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.05
+Average = 1287.3275
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.06
+Average = 2554.2468
+Count = 81
+Units = Dollars
+------------------------
+Period = 2006.07
+Average = 1296.9325
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.08
+Average = 1302.7375
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.09
+Average = 2603.3567
+Count = 81
+Units = Dollars
+------------------------
+Period = 2006.10
+Average = 1330.2375
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.11
+Average = 1357.67
+Count = 40
+Units = Dollars
+------------------------
+Period = 2006.12
+Average = 2817.2036
+Count = 81
+Units = Dollars
+------------------------
+Period = 2007.01
+Average = 1358.2574
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.02
+Average = 1352.2875
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.03
+Average = 4669.425
+Count = 96
+Units = Dollars
+------------------------
+Period = 2007.04
+Average = 1377.6075
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.05
+Average = 1392.4875
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.06
+Average = 2771.826
+Count = 81
+Units = Dollars
+------------------------
+Period = 2007.07
+Average = 1402.135
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.08
+Average = 1415.6176
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.09
+Average = 2824.626
+Count = 81
+Units = Dollars
+------------------------
+Period = 2007.10
+Average = 1439.46
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.11
+Average = 1478.86
+Count = 40
+Units = Dollars
+------------------------
+Period = 2007.12
+Average = 3041.2456
+Count = 81
+Units = Dollars
+------------------------
+Period = 2008.01
+Average = 1462.53
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.02
+Average = 1457.675
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.03
+Average = 5004.376
+Count = 96
+Units = Dollars
+------------------------
+Period = 2008.04
+Average = 1458.6075
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.05
+Average = 1480.05
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.06
+Average = 2909.1184
+Count = 81
+Units = Dollars
+------------------------
+Period = 2008.07
+Average = 1477.9625
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.08
+Average = 1482.4875
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.09
+Average = 2952.4197
+Count = 81
+Units = Dollars
+------------------------
+Period = 2008.10
+Average = 1510.28
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.11
+Average = 1502.7476
+Count = 40
+Units = Dollars
+------------------------
+Period = 2008.12
+Average = 3112.7112
+Count = 81
+Units = Dollars
+------------------------
+Period = 2009.01
+Average = 1488.33
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.02
+Average = 1466.855
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.03
+Average = 5132.842
+Count = 96
+Units = Dollars
+------------------------
+Period = 2009.04
+Average = 1492.4
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.05
+Average = 1508.02
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.06
+Average = 2973.9285
+Count = 81
+Units = Dollars
+------------------------
+Period = 2009.07
+Average = 1517.155
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.08
+Average = 1513.645
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.09
+Average = 3020.922
+Count = 81
+Units = Dollars
+------------------------
+Period = 2009.10
+Average = 1538.49
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.11
+Average = 1546.0725
+Count = 40
+Units = Dollars
+------------------------
+Period = 2009.12
+Average = 3216.985
+Count = 81
+Units = Dollars
+------------------------
+Period = 2010.01
+Average = 1546.765
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.02
+Average = 1521.02
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.03
+Average = 5316.8936
+Count = 96
+Units = Dollars
+------------------------
+Period = 2010.04
+Average = 1540.05
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.05
+Average = 1551.875
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.06
+Average = 3080.3247
+Count = 81
+Units = Dollars
+------------------------
+Period = 2010.07
+Average = 1570.77
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.08
+Average = 1560.29
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.09
+Average = 3146.1753
+Count = 81
+Units = Dollars
+------------------------
+Period = 2010.10
+Average = 1610.535
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.11
+Average = 1640.23
+Count = 40
+Units = Dollars
+------------------------
+Period = 2010.12
+Average = 3392.3594
+Count = 81
+Units = Dollars
+------------------------
+Period = 2011.01
+Average = 1634.07
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.02
+Average = 1610.61
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.03
+Average = 5591.011
+Count = 96
+Units = Dollars
+------------------------
+Period = 2011.04
+Average = 1667.22
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.05
+Average = 1661.29
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.06
+Average = 3311.473
+Count = 81
+Units = Dollars
+------------------------
+Period = 2011.07
+Average = 1687.195
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.08
+Average = 1673.6
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.09
+Average = 3362.1604
+Count = 81
+Units = Dollars
+------------------------
+Period = 2011.10
+Average = 1722.0875
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.11
+Average = 1733.6226
+Count = 40
+Units = Dollars
+------------------------
+Period = 2011.12
+Average = 3595.8914
+Count = 81
+Units = Dollars
+------------------------
+Period = 2012.01
+Average = 1722.6825
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.02
+Average = 1714.025
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.03
+Average = 5938.782
+Count = 96
+Units = Dollars
+------------------------
+Period = 2012.04
+Average = 1725.5024
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.05
+Average = 1752.2975
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.06
+Average = 3469.8
+Count = 81
+Units = Dollars
+------------------------
+Period = 2012.07
+Average = 1743.7075
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.08
+Average = 1767.7175
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.09
+Average = 3509.2642
+Count = 81
+Units = Dollars
+------------------------
+Period = 2012.10
+Average = 1790.01
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.11
+Average = 1823.2975
+Count = 40
+Units = Dollars
+------------------------
+Period = 2012.12
+Average = 3753.5137
+Count = 81
+Units = Dollars
+------------------------
+Period = 2013.01
+Average = 1815.035
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.02
+Average = 1789.0325
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.03
+Average = 6198.674
+Count = 96
+Units = Dollars
+------------------------
+Period = 2013.04
+Average = 1824.72
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.05
+Average = 1846.23
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.06
+Average = 3658.4617
+Count = 81
+Units = Dollars
+------------------------
+Period = 2013.07
+Average = 1860.4175
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.08
+Average = 1872.69
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.09
+Average = 3711.6704
+Count = 81
+Units = Dollars
+------------------------
+Period = 2013.10
+Average = 1905.65
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.11
+Average = 1935.395
+Count = 40
+Units = Dollars
+------------------------
+Period = 2013.12
+Average = 3982.5112
+Count = 81
+Units = Dollars
+------------------------
+Period = 2014.01
+Average = 1918.54
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.02
+Average = 1888.31
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.03
+Average = 6554.851
+Count = 96
+Units = Dollars
+------------------------
+Period = 2014.04
+Average = 1913.9075
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.05
+Average = 1956.7125
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.06
+Average = 3840.5618
+Count = 81
+Units = Dollars
+------------------------
+Period = 2014.07
+Average = 1943.2875
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.08
+Average = 1946.65
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.09
+Average = 3869.748
+Count = 81
+Units = Dollars
+------------------------
+Period = 2014.10
+Average = 1999.135
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.11
+Average = 2012.645
+Count = 40
+Units = Dollars
+------------------------
+Period = 2014.12
+Average = 4149.5356
+Count = 81
+Units = Dollars
+------------------------
+Period = 2015.01
+Average = 2004.9976
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.02
+Average = 1969.2725
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.03
+Average = 6852.878
+Count = 96
+Units = Dollars
+------------------------
+Period = 2015.04
+Average = 1997.855
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.05
+Average = 2037.9475
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.06
+Average = 4023.6223
+Count = 81
+Units = Dollars
+------------------------
+Period = 2015.07
+Average = 2060.5125
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.08
+Average = 2055.87
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.09
+Average = 4099.305
+Count = 81
+Units = Dollars
+------------------------
+Period = 2015.10
+Average = 2112.1125
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.11
+Average = 2125.2024
+Count = 40
+Units = Dollars
+------------------------
+Period = 2015.12
+Average = 4402.9346
+Count = 81
+Units = Dollars
+------------------------
+Period = 2016.01
+Average = 2120.15
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.02
+Average = 2108.79
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.03
+Average = 7252.591
+Count = 96
+Units = Dollars
+------------------------
+Period = 2016.04
+Average = 2144.1375
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.05
+Average = 2141.6475
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.06
+Average = 4273.1396
+Count = 81
+Units = Dollars
+------------------------
+Period = 2016.07
+Average = 2175.895
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.08
+Average = 2148.32
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.09
+Average = 4323.596
+Count = 81
+Units = Dollars
+------------------------
+Period = 2016.10
+Average = 2224.2476
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.11
+Average = 2240.605
+Count = 40
+Units = Dollars
+------------------------
+Period = 2016.12
+Average = 4643.5234
+Count = 81
+Units = Dollars
+------------------------
+Period = 2017.01
+Average = 2306.0525
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.02
+Average = 2268.85
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.03
+Average = 7752.625
+Count = 96
+Units = Dollars
+------------------------
+Period = 2017.04
+Average = 2314.0525
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.05
+Average = 2335.2424
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.06
+Average = 4582.5024
+Count = 81
+Units = Dollars
+------------------------
+Period = 2017.07
+Average = 2324.725
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.08
+Average = 2330.3025
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.09
+Average = 4612.7803
+Count = 81
+Units = Dollars
+------------------------
+Period = 2017.10
+Average = 2387.9424
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.11
+Average = 2444.16
+Count = 40
+Units = Dollars
+------------------------
+Period = 2017.12
+Average = 4961.1875
+Count = 81
+Units = Dollars
+------------------------
+Period = 2018.01
+Average = 2428.265
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.02
+Average = 2383.0576
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.03
+Average = 8227.347
+Count = 96
+Units = Dollars
+------------------------
+Period = 2018.04
+Average = 2398.5225
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.05
+Average = 2435.9175
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.06
+Average = 4773.468
+Count = 81
+Units = Dollars
+------------------------
+Period = 2018.07
+Average = 2439.5024
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.08
+Average = 2465.185
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.09
+Average = 4845.3345
+Count = 81
+Units = Dollars
+------------------------
+Period = 2018.10
+Average = 2520.96
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.11
+Average = 2545.6326
+Count = 40
+Units = Dollars
+------------------------
+Period = 2018.12
+Average = 5133.9644
+Count = 81
+Units = Dollars
+------------------------
+Period = 2019.01
+Average = 2526.415
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.02
+Average = 2477.7776
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.03
+Average = 8530.244
+Count = 96
+Units = Dollars
+------------------------
+Period = 2019.04
+Average = 2507.98
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.05
+Average = 2521.2876
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.06
+Average = 4923.6035
+Count = 81
+Units = Dollars
+------------------------
+Period = 2019.07
+Average = 2501.93
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.08
+Average = 2536.385
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.09
+Average = 4966.525
+Count = 81
+Units = Dollars
+------------------------
+Period = 2019.10
+Average = 2584.695
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.11
+Average = 2651.23
+Count = 40
+Units = Dollars
+------------------------
+Period = 2019.12
+Average = 5303.7925
+Count = 81
+Units = Dollars
+------------------------
+Period = 2020.01
+Average = 2622.725
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.02
+Average = 2610.5874
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.03
+Average = 7248.2314
+Count = 96
+Units = Dollars
+------------------------
+Period = 2020.04
+Average = 836.5075
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.05
+Average = 1491.3475
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.06
+Average = 2835.7197
+Count = 81
+Units = Dollars
+------------------------
+Period = 2020.07
+Average = 1751.77
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.08
+Average = 1616.47
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.09
+Average = 3362.2012
+Count = 81
+Units = Dollars
+------------------------
+Period = 2020.10
+Average = 1778.065
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.11
+Average = 1777.3525
+Count = 40
+Units = Dollars
+------------------------
+Period = 2020.12
+Average = 3668.4111
+Count = 81
+Units = Dollars
+------------------------
+Period = 2021.01
+Average = 1720.67
+Count = 40
+Units = Dollars
+------------------------
+Period = 2021.02
+Average = 1620.275
+Count = 40
+Units = Dollars
+------------------------
+Period = 2021.03
+Average = 7160.401
+Count = 96
+Units = Dollars
+------------------------
+Period = 2021.04
+Average = 1745.4725
+Count = 40
+Units = Dollars
+------------------------
+Period = 2021.05
+Average = 1793.905
+Count = 40
+Units = Dollars
+------------------------
+Period = 2021.06
+Average = 3517.868
+Count = 81
+Units = Dollars
+------------------------
+Period = 2021.07
+Average = 1841.6226
+Count = 40
+Units = Dollars
+------------------------
+Period = 2021.08
+Average = 1435.335
+Count = 40
+Units = Dollars
+------------------------
+Period = 2021.09
+Average = 3049.195
+Count = 80
+Units = Dollars
+------------------------
+Period = 2021.10
+Average = 1636.03
+Count = 40
+Units = Dollars
+------------------------

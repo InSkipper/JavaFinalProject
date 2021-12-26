@@ -18,7 +18,7 @@ public class Main {
         DbConn.conn();
         DbConn.createDB();
 //        DbConn.writeDB(transactions);
-//        makeTask1(DbConn.readDBTask1());
+        makeTask1(DbConn.readDBTask1());
         makeTask2();
         makeTask3();
         DbConn.closeDB();

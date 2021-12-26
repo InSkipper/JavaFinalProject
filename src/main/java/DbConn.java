@@ -83,7 +83,7 @@ public class DbConn {
         resultSet = statement.executeQuery(
                 "SELECT Period, SUM(Data_value) AS Data_value, CAST(substr(Period, 1, 4) as INTEGER) as Year, UNITS " +
                         "FROM transactions " +
-                        "WHERE UNITS = 'Dollars' AND YEAR=2020 " +
+                        "WHERE UNITS = 'Dollars' AND Year=2020 " +
                         "GROUP BY Period ORDER BY Period");
         var list = new ArrayList<Task_1>();
         while (resultSet.next()) {
@@ -113,34 +113,38 @@ public class DbConn {
             System.out.println("Period = " + period);
             System.out.println("Average = " + average);
             System.out.println("Count = " + count);
-//            System.out.println("Units = " + units);
+            System.out.println("Units = " + units);
             System.out.println("------------------------");
         }
         System.out.println();
         System.out.println("Таблица выведена");
+        System.out.println();
     }
 
     public static void readDBTask3() throws SQLException {
         resultSet = statement.executeQuery(
-                "SELECT Period, MAX(Data_value) AS Max, Min(Data_value) AS Min, " +
+                "SELECT Period, MAX(Data_value) AS Max, MIN(Data_value) AS Min, " +
                         "CAST(substr(Period, 1, 4) as INTEGER) as Year, UNITS " +
                         "FROM transactions " +
-                        "WHERE UNITS = 'Dollars' AND (Year=2014 OR Year=2016 OR Year=2020)" +
-                        "GROUP BY Period ORDER BY Period");
+                        "WHERE UNITS = 'Dollars' AND (Year=2014 OR Year=2016 OR Year=2020) " +
+                        "GROUP BY Year ORDER BY Year");
         printTaskName("Задача 3", '~');
         printTaskName("Вывести в консоль максимальный и минимальный перевод в долларах за 2014, 2016 и 2020 год.",
                 '=');
         while (resultSet.next()) {
-            var period = resultSet.getString("Period");
+            var year = resultSet.getString("Year");
             var max = resultSet.getFloat("Max");
             var min = resultSet.getFloat("Min");
             var units = resultSet.getString("UNITS");
-            System.out.println("Period = " + period);
+            System.out.println("Year = " + year);
             System.out.println("Min = " + min);
             System.out.println("Max = " + max);
             System.out.println("Units = " + units);
             System.out.println("------------------------");
         }
+        System.out.println();
+        System.out.println("Таблица выведена");
+        System.out.println();
     }
 
     public static void closeDB() throws SQLException {

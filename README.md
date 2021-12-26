@@ -13,10 +13,11 @@
 Создадим [класс](https://github.com/InSkipper/JavaFinalProject/blob/4000d45bc9a52c9ebaa8b050da3bb5c2f38f9d54/src/main/java/DbConn.java#L6)
 и набор методов для работы с БД. Для работы с sqlite был выбран драйвер `jdbc`. 
 
-**Создадим таблицу** и заполним её всеми данными с помощью методов `createDB` и `writeDB`
+**Создадим таблицу** и заполним её сохраненными ранее данными с помощью методов `createDB` и `writeDB`
 
 ### Создание запросов к БД
 *Выполним задания 1-3*
+
 **Для первого задания** был создан такой запрос к БД:
 ``` sql
 SELECT Period, SUM(Data_value) AS Data_value, CAST(substr(Period, 1, 4) AS INTEGER) AS Year, UNITS 
